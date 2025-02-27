@@ -136,14 +136,12 @@ resource "aws_instance" "web-server-instance" {
   <li><b>Security Groups</b>: Control inbound/outbound traffic to instances.</li>
 </ul>
 
-<h2> Connecting to AWS EC2</h2>
-
-<h3>💻 Accessing EC2 on Mac/Linux</h3>
+<h3>Accessing EC2 on Mac/Linux</h3>
 <pre>
 ssh -i "your-key.pem" ubuntu@<instance-public-ip>
 </pre>
 
-<h3>💻 Accessing EC2 on Windows (Using PuTTY)</h3>
+<h3>Accessing EC2 on Windows (Using PuTTY)</h3>
 <ul>
   <li>1️⃣ Download and install <b>PuTTY</b>.</li>
   <li>2️⃣ Open <b>PuTTYgen</b> → Load your <code>.pem</code> key → Save as <code>.ppk</code>.</li>
@@ -158,5 +156,5 @@ ssh -i "your-key.pem" ubuntu@<instance-public-ip>
 
 <p>Inspired by this tutorial: https://www.youtube.com/watch?v=SLB_c_ayRMo </p>
 
-  🌍 GitHub: <a href="https://github.com/yourusername">yourusername</a>
+ 
 </p>
