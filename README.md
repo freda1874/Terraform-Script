@@ -79,7 +79,7 @@
 
 <b> Terraform Output Variables</b>
 
-<h3> Retrieve EC2 Public IP</h3>
+Retrieve EC2 Public IP
 <p>Add the following to <code>main.tf</code> to output the EC2 public IP:</p>
 <pre>
 output "instance_public_ip" {
