@@ -27,7 +27,7 @@
   <li>Set up an SSH key pair in AWS to access EC2 instances.</li>
 </ul>
 
-<h2>🚀 Essential Terraform Commands</h2>
+<b>🚀 Essential Terraform Commands</b>
 
 <table align="center" border="1" cellpadding="6" cellspacing="0">
   <tr>
