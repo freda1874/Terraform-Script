@@ -7,11 +7,11 @@
 <h2> Key Concepts Practiced</h2>
  
 <ul>
-  <li>✅ <b>Terraform</b>: Automates AWS infrastructure provisioning.</li>
-  <li>✅ <b>Infrastructure as Code (IaC)</b>: Manages cloud resources via code.</li>
-  <li>✅ <b>State Management</b>: Tracks deployed resources.</li>
-  <li>✅ <b>EC2 Deployment</b>: Launches an AWS instance with Terraform.</li>
-  <li>✅ <b>Networking</b>: Configures VPC, subnets, route tables, and security groups.</li>
+  <li><b>Terraform</b>: Automates AWS infrastructure provisioning.</li>
+  <li><b>Infrastructure as Code (IaC)</b>: Manages cloud resources via code.</li>
+  <li><b>State Management</b>: Tracks deployed resources.</li>
+  <li><b>EC2 Deployment</b>: Launches an AWS instance with Terraform.</li>
+  <li><b>Networking</b>: Configures VPC, subnets, route tables, and security groups.</li>
 </ul>
 
  
